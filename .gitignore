@@ -1,0 +1,6 @@
+# I want to ignore those backup files
+# printer-20241113_105458.cfg
+# I don't want to ignore this file
+# printer.cfg
+
+printer-[0-9]{8}_[0-9]+.cfg
