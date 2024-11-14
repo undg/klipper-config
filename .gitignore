@@ -3,5 +3,5 @@
 # I don't want to ignore this file
 # printer.cfg
 
-printer-[0-9]{8}_[0-9]+.cfg
 !printer.cfg
+printer-[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]_[0-9]*.cfg
