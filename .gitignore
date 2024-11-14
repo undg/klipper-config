@@ -4,3 +4,4 @@
 # printer.cfg
 
 printer-[0-9]{8}_[0-9]+.cfg
+!printer.cfg
