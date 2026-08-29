@@ -10,3 +10,4 @@ https://www.youtube.com/watch?v=w9ZQaPKFa3o
 Probe: 3d Touch (BLTOUCH)
 
 
+~/printer_data/config
