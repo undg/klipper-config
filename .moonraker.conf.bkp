@@ -13,7 +13,10 @@ cors_domains =
 	http://my.mainsail.xyz
 	http://*.local
 	http://*.lan
+	192.168.0.93
 trusted_clients = 
+	192.168.0.0/24
+	192.168.0.93
 	10.0.0.0/8
 	127.0.0.0/8
 	169.254.0.0/16
